@@ -1,2 +1,10 @@
-# Movie-Recommender-System
- This project implements a recommender system using `item to item collaborative filtering` method. The core data structure used in this implementation is a `user-item matrix` which represents the ratings given by users to movies. A `pandas DataFrame` is used to store this matrix and other relevant data because of it's efficient storage.
+# Movie Recommender System
+This repository showcases a movie recommender system built using 'item-to-item collaborative filtering'. It leverages a user-item matrix to predict movie recommendations based on users' previous ratings. The system stores data in a pandas DataFrame for efficient processing and analysis.
+
+## Features:
+- Item-to-item collaborative filtering method.
+- User-item matrix to represent user ratings.
+- Efficient data handling using pandas.
+  
+## Getting Started
+Clone the repository and run the Implementation & Experiments.ipynb notebook to explore the recommender system.
